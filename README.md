@@ -1,13 +1,15 @@
 # ads-1-engenharia-2025-2040678
 
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - {Renan Iamato Yokoyama}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
-
+Metodologias é um conjunto de métodos e conceitos utilizados no desenvolvimento de softwares, visando otimizar a criação e verificação de processos
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+É uma forma de gerir projetos de formas sequenciais, foi um método que foi baseado nas construções civis e nas fábricas.
+É um método separado em 4 etapas: planejamento, execução, validação e entrega. Só se avança se a etapa atual for concluída e com a aprovação de um "stakeholders"
+
+
 
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
