@@ -101,8 +101,11 @@ Jira e Trello são ferramentas de gerenciamento de projetos e tarefas
 O Jira é mais indicado para equipes de desenvolvimento de software:
 
 1-Ferramenta de gerenciamento de projetos e rastreamento de itens 
-2-Desenvolvida pela Atlassian 
+
+2-Desenvolvida pela Atlassian
+
 3-Ideal para equipes de software que precisam executar e oferecer suporte a software 
+
 4-Abrangente e complexa, com vários quadros que podem ser usados para diferentes partes de um fluxo de trabalho 
 
 Trello é mais adequado para empresas de pequeno e médio porte:
