@@ -110,6 +110,9 @@ O Jira é mais indicado para equipes de desenvolvimento de software:
 
 Trello é mais adequado para empresas de pequeno e médio porte:
 1-Ferramenta de gerenciamento de tarefas e projetos
+
 2-Ideal para coletar e compartilhar ideias, listas e tarefas
+
 3-Fácil de usar
+
 4-Permite organizar informações importantes em cartões, com datas de entrega, anexos de arquivos e marcação de tarefas como "Feitas"
