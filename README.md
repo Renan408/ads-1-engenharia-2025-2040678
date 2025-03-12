@@ -36,6 +36,7 @@ Seus principios e valores seriam:
 ### 📅 Sprints  
 Sprints na metodologia Scrum é um período curto e fixo em que uma equipe de Scrum trabalha para concluir uma etapa de um projeto.
 Os sprints ajudam as equipes a seguir o princípio ágil de "entregar software funcional com frequência". O Scrum é o resultado de uma séries de Sprints.
+
 ### 💬 Cerimônias  
 As cerimônias do Scrum emergem como pilares fundamentais para a estruturação das sprints e da comunicação das equipes.
 O scrum em seu principio usa 5 reuniões que seriam as cermônias:
@@ -85,7 +86,27 @@ Respeitar colegas e clientes conduz a um trabalho colaborativo e a um produto fi
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+
+Tanto o GitHub quanto o GitLab são plataformas populares que fornecem serviços de hospedagem de repositórios para o Git
+
+Para projetos de código aberto e colaboração: O GitHub é a escolha preferencial devido à sua ampla comunidade e ecossistema mais amplo.
+
+Para projetos corporativos e conformidade: O GitLab é uma opção mais adequada devido aos seus recursos de segurança mais abrangentes e planos pagos mais flexíveis.
+
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+
+Jira e Trello são ferramentas de gerenciamento de projetos e tarefas
+
+O Jira é mais indicado para equipes de desenvolvimento de software:
+
+1-Ferramenta de gerenciamento de projetos e rastreamento de itens 
+2-Desenvolvida pela Atlassian 
+3-Ideal para equipes de software que precisam executar e oferecer suporte a software 
+4-Abrangente e complexa, com vários quadros que podem ser usados para diferentes partes de um fluxo de trabalho 
+
+Trello é mais adequado para empresas de pequeno e médio porte:
+1-Ferramenta de gerenciamento de tarefas e projetos
+2-Ideal para coletar e compartilhar ideias, listas e tarefas
+3-Fácil de usar
+4-Permite organizar informações importantes em cartões, com datas de entrega, anexos de arquivos e marcação de tarefas como "Feitas"
